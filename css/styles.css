@@ -65,3 +65,45 @@ ul {
     font-style: italic;
 }
 
+.project-section {
+    text-align: center;
+    background-color: burlywood;
+    padding: 10rem 2rem;
+}
+
+.display-title {
+    font-size: 50px;
+    margin-bottom: 200px;
+}
+
+.projects-base {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(610px, 2fr));
+    grid-gap: 10rem;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 6rem;
+}
+.project {
+    background-color: bisque;
+    border-radius: 2px;
+}
+
+.project-image {
+    width: 100%;
+}
+
+.project-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.button {
+    display: inline-block;
+    padding: 1rem 2rem;
+    border-radius: 2px;
+    font-size: 2rem;
+    background-color: bisque;
+}
+
