@@ -140,3 +140,8 @@ ul {
 .social-btn {
     font-size: 2rem;
 }
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
