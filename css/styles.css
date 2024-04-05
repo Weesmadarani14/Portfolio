@@ -118,3 +118,12 @@ ul {
     padding: 0 2rem;
 }
 
+.contact-info-title {
+    font-size: 50px;
+}
+
+.contact-info-description {
+    font-size: 25px;
+    font-style: italic;
+}
+
